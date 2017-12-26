@@ -1,0 +1,47 @@
+﻿  ConsoleApplication2.cpp
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): note: использование предварительно скомпилированного заголовка
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(52): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(52): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(52): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(52): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(63): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(63): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(63): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(63): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(74): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(74): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(74): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(74): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(85): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(85): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(85): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(85): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(106): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(106): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(106): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(106): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4477: "scanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "char *"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4477: "scanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "4" имеет тип "int *"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4477: "scanf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "5" имеет тип "int *"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: этот аргумент используется описателем преобразования
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4477: "scanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "6" имеет тип "char *"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: этот аргумент используется в качестве размера буфера
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "7" имеет тип "char *"
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: заполнители и их параметры ожидают переменное число аргументов в количестве 12, но было предоставлено 7
+  c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(211): note: отсутствующий вариативный аргумент "8" требуется для строки форматирования "%d"
+c:\users\церен\desktop\лабы по оаип\5\consoleapplication2\consoleapplication2\consoleapplication2.cpp(262): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
